@@ -1,2 +1,3 @@
-# Time-Series
+# Predicting Stock Prices using Time Series Analysis
  
+In Time-Series.ipynb we use time series analysis...
